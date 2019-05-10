@@ -8,4 +8,5 @@ $git clone https://github.com/karjok/terkey<br>
 $cd terkey<br>
 $python terkey.py
 
-
+# run
+press Q & Vol+
